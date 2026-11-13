@@ -1,0 +1,15 @@
+# gemte spil, indstillinger og fejllog
+farmland_*.json
+farmland_*.json.bak
+farmland_fejl.txt
+.farmland_skrivetest
+
+# byggefiler fra byg_installer.bat
+installer_build/
+dist/
+build/
+farmland.ico
+*.spec
+
+__pycache__/
+*.pyc
